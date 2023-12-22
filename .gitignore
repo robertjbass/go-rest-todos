@@ -1,0 +1,17 @@
+# General
+.DS_Store
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Optional: binary output
+bin/
